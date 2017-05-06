@@ -7,6 +7,5 @@
 	"version": "1.0.4",
 	"releasenote": "Customizable toast location, big internal rewrite",
 	"contributors": ["samcodes"],
-  "classPath": ".",
 	"dependencies": {}
 }
